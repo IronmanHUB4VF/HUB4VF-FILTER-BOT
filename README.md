@@ -1,11 +1,5 @@
 # HUB4VF-FILTER-BOT
 
-<meta property="og:image" content="https://repository-images.githubusercontent.com/951051104/345b2894-ee37-4919-9b84-96c9ebb88d6f" />
-
-<meta property="og:title" content="Your Repository Title" />
-
-<meta property="og:description" content="A brief description of your repository." />
-
 <div align="center">
    <img src="https://img.shields.io/github/repo-size/IronmanHUB4VF/HUB4VF-FILTER-BOT?color=green&label=Repo%20Size&labelColor=292c3b" alt="Repo Size">
    <img src="https://img.shields.io/badge/Version-1.0-brightgreen.svg" alt="Version">
