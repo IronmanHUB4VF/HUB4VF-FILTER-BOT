@@ -1,6 +1,6 @@
 # HUB4VF-FILTER-BOT
 
-<meta property="og:image" content="URL_TO_YOUR_IMAGE" />
+<meta property="og:image" content="https://repository-images.githubusercontent.com/951051104/345b2894-ee37-4919-9b84-96c9ebb88d6f" />
 
 <meta property="og:title" content="Your Repository Title" />
 
