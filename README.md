@@ -33,7 +33,7 @@
         | `TELEGRAM_HASH` | ✅ | Telegram API hash from [my.telegram.org](https://my.telegram.org) |
         | `LOG_CHANNEL` | ✅ | Channel ID for bot logs (start with `-100`) |
         | `DATABASE_CHANNEL` | ✅ | Channel ID for database storage |
-        | `DATABASE_URL` | ✅ | PostgreSQL connection URL |
+        | `DATABASE_URL` | ✅ | MongoDB connection URL |
         | `FILES_DATABASE_URL` | ✅ | MongoDB connection URL for files |
         | `OWNER_ID` | ✅ | Your Telegram user ID |
         | `BOT_BASE_URL` | ✅ | Required only for webhook configuration |
@@ -84,7 +84,7 @@
         | `TELEGRAM_HASH` | ✅ | Telegram API hash from [my.telegram.org](https://my.telegram.org) |
         | `LOG_CHANNEL` | ✅ | Channel ID for bot logs (start with `-100`) |
         | `DATABASE_CHANNEL` | ✅ | Channel ID for database storage |
-        | `DATABASE_URL` | ✅ | PostgreSQL connection URL |
+        | `DATABASE_URL` | ✅ | MongoDB connection URL |
         | `FILES_DATABASE_URL` | ✅ | MongoDB connection URL for files |
         | `OWNER_ID` | ✅ | Your Telegram user ID |
         | `BOT_BASE_URL` | ✅ | Required only for webhook configuration |
