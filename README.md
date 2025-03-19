@@ -68,12 +68,12 @@
 1. **📂 Clone the Repository**:
    - Clone the repository to your local machine:
       ```bash
-      git clone https://github.com/Ironman966232/IRON-FILTER-BOT.git
+      git clone https://github.com/IronmanHUB4VF/HUB4VF-FILTER-BOT.git
       ```
 2. **📁 Navigate to Project Directory**:
    - Change to the project directory:
       ```bash
-      cd IRON-FILTER-BOT
+      cd HUB4VF-FILTER-BOT
       ```
 3. **🛠️ Add Configuration**:
    - Add the `config.env` file with your bot's credentials and settings to the root directory.
