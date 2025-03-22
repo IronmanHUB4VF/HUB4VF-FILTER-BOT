@@ -43,15 +43,7 @@
    - Click on "Create Application" and choose "GitHub" as the source.
    - Select the `HUB4VF-FILTER-BOT` repository.
 4. **⚙️ Buildpack Selection**:
-   - In the application settings, select `Buildpack` as the buildpack.
-   - add build command
-     ```
-     docker build . -t ironfilter
-     ```
-   - add run command
-     ```
-     docker run -p 8080:8080 ironfilter
-     ```
+   - In the application settings, select `Dockerfile` as the builder.
 5. **🌐 Exposed Ports**:
    - Set the `PORT` number to your desired value (recommended: `8080`).
 5. **💾 Save and Deploy**:
